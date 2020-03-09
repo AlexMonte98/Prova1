@@ -21,7 +21,7 @@ public class EntryPoint extends Application {
         stage.setScene(scene);
         stage.show();
     }
-    //commento prova
+    //commento prova 222
 
     /**
      * The main() method is ignored in correctly deployed JavaFX application.
